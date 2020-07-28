@@ -4,10 +4,11 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
-		System.out.println("µÚÒ»´Î¸üĞÂ");
-		System.out.println("µÚ¶ş´Î¸üĞÂ");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("·ÖÖ§Ìí¼Ó");
-		System.out.println("Ö÷¸ÉÌí¼Ó");
+		System.out.println("ç¬¬ä¸€æ¬¡æ›´æ–°");
+		System.out.println("ç¬¬äºŒæ¬¡æ›´æ–°");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("åˆ†æ”¯æ·»åŠ ");
+		System.out.println("ä¸»å¹²æ·»åŠ ");
+		System.out.println("åœ¨çº¿æ·»åŠ ");
 	}
 }
